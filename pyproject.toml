@@ -22,7 +22,7 @@ name = "semantic-r1pro-abilities"
 version = "0.4.0.dev1"
 description = "基于 AbilityFramework 与 R1 Pro Robot SDK 的语义 Ability"
 requires-python = ">=3.11"
-license = "Apache-2.0"
+license = "LicenseRef-Proprietary"
 dependencies = [
   "ability-py>=0.4,<0.5",
   "PyYAML>=6,<7",
